@@ -10,8 +10,8 @@ In addition, a sample solution to the problem will be included after the power h
 
 A list of power hour dates, as well as a small blurb on each project you will be working on is maintained on this readme.
 
-* June 21: Using fundamental python skills, students will be able to create a simple bank account manager
+* **June 21**: Using fundamental python skills, students will be able to create a simple bank account manager
 
-* July 9: Parse and analyze data to discover information using popular modules like Pandas. Export a data report based on a set of requirements.
+* **July 9**: Parse and analyze data to discover information using popular modules like Pandas. Export a data report based on a set of requirements.
 
-* August 14: Advanced data analysis with Pandas. Students will be aggregating, merging and visualizing data from multiple sources to complete this task.
+* **August 14**: Advanced data analysis with Pandas. Students will be aggregating, merging and visualizing data from multiple sources to complete this task.
