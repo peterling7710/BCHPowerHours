@@ -23,3 +23,5 @@
 # Summary all
 
 # Total funds
+
+# Delete an account
