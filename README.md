@@ -15,3 +15,5 @@ A list of power hour dates, as well as a small blurb on each project you will be
 * **July 9**: Parse and analyze data to discover information using popular modules like Pandas. Export a data report based on a set of requirements.
 
 * **August 14**: Advanced data analysis with Pandas. Students will be aggregating, merging and visualizing data from multiple sources to complete this task.
+
+* **September 30**: You are tasked with creating a to-do list application that can track task you need to complete.
