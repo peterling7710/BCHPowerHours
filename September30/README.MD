@@ -1,5 +1,6 @@
-**Power Hour: Python September 30, 2020**
- 
+# Power Hours: Python
+## September 2020
+
 Today, we will be creating a to-do list. The idea is to take the fundamentals we learned in python 1 and create a basic but useful application. 
  
 Upon running the code, the user will be provided with a prompt to perform one of many actions, including the following: 
