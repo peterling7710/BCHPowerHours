@@ -4,7 +4,7 @@ Today, we will be creating a to-do list. The idea is to take the fundamentals we
  
 Upon running the code, the user will be provided with a prompt to perform one of many actions, including the following: 
 *	Add a task to the list. It should track the following:
- * The name
+  * The name
  * The due date
  * Whether or not it is complete
 * Mark a to-do as complete
