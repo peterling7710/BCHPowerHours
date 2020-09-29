@@ -6,7 +6,7 @@ Upon running the code, the user will be provided with a prompt to perform one of
 *	Add a task to the list. It should track the following:
   * The name
   * The due date
-  * Whether ot not it is complete
+  * Whether or not it is complete
 * Mark a to-do as complete
 * Print out all current to-dos
 * Tell you how many to-dos are complete
